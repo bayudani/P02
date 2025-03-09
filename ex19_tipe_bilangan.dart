@@ -3,11 +3,9 @@ void main(List<String> args) {
   int dec = 255;
   int hex1 = 0xFf;
   int hex2 = 0xFF;
-  
   double a = 131.25;
   double b = 1.3e2;
   double c = 1.3E5;
-  
   num x = 13;
   num y = 12.75;
 
